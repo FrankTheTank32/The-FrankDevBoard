@@ -1,0 +1,28 @@
+Seller,Item,Description,Quantity,Unit Price ($),Total Price ($),Link
+,,,,,,
+Digi-Key,2648-SC0914(13)CT-ND,IC MCU 32B EXT MEM 56QFN RP2040,1,0.7,0.7,https://www.digikey.com/en/products/detail/raspberry-pi/SC0914-13/14306010
+Digi-Key,1292-1630-1-ND,CAP CER 0.1UF 16V X7R 0402,50,0.003,0.15,https://www.digikey.com/en/products/detail/walsin-technology-corporation/0402B104K160CT/6707534
+Digi-Key,1276-1272-1-ND,CAP CER 33PF 50V C0G/NP0 0402,10,0.003,0.03,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05C330JB5NNNC/3886930
+Digi-Key,13-RC0402FR-135K1LCT-ND,RES 5.1K OHM 1% 1/16W 0402,10,0.005,0.05,https://www.digikey.com/en/products/detail/yageo/RC0402FR-135K1L/14286364
+Digi-Key,4827-217B-CA05CT-ND,"USB TYPE C RECEPTACLE, 16 PIN SI",1,1.94,1.94,https://www.digikey.com/en/products/detail/attend-technology/217B-CA05/25621958
+Digi-Key,952-1900-ND,CONN SIL HDR MALE PIN 20POS TIN,2,5.38,10.76,https://www.digikey.com/en/products/detail/harwin-inc/D01-9922046/3727867
+Digi-Key,311-1.0KJRCT-ND,RES 1K OHM 5% 1/16W 0402,10,0.006,0.06,https://www.digikey.com/en/products/detail/yageo/RC0402JR-071KL/726408
+Digi-Key,311-10.0KHRCT-ND,RES 10K OHM 1% 1/10W 0603,10,0.006,0.06,https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880
+Digi-Key,SW1021CT-ND,SWITCH TACTILE SPST-NO 0.05A 12V,1,0.6,0.6,https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3U-1100P/1534339
+Digi-Key,SAM1112-03-ND,CONN HEADER VERT 3POS 2.54MM,1,0.81,0.81,https://www.digikey.com/en/products/detail/samtec-inc/TS-103-T-A/1105491
+Digi-Key,311-27JRCT-ND,RES 27 OHM 5% 1/16W 0402,10,0.006,0.06,https://www.digikey.com/en/products/detail/yageo/RC0402JR-0727RL/726450
+Digi-Key,828-BMI323CT-ND,IMU ACCEL/GYRO I2C/SPI 14LGA,1,3.27,3.27,https://www.digikey.com/en/products/detail/bosch-sensortec/BMI323/16719593
+Digi-Key,644-STDCQS1-12MCT-ND,CRYSTAL 12.0000MHZ 8PF SMD,1,0.93,0.93,https://www.digikey.com/en/products/detail/ndk-nihon-dempa-kogyo-co-ltd/STDCQS1-12M/1788468
+Digi-Key,MCP1700T3302ETTCT-ND,IC REG LINEAR 3.3V 250MA SOT23-3,1,0.51,0.51,https://www.digikey.com/en/products/detail/microchip-technology/MCP1700T-3302E-TT/652676
+Digi-Key,256-W25Q16JVZPIQTRCT-ND,IC FLASH 16MBIT SPI/QUAD 8WSON,1,0.68,0.68,https://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVZPIQ-TR/6193781
+,,,,,,
+JLCPCB,PCB prototype:Y2-6321899A,,5,0.4,2,https://cart.jlcpcb.com/quote/gerberviewThree/?qs=52e58b64d7ee4095b6356ac212defeb3_1_0_4_0_0.html
+,,,,,,
+,,,,,,
+,,,,,Total Cost w/o shipping:,22.61
+,,,,,JLCPCB shipping: ,3.12
+,,,,,Digikey shipping:,6.99
+,,,,,Digikey tarrif:,0.02
+,,,,,JLCPCB coupon:,-2
+,,,,,,
+,,,,,NET COST:,30.74
